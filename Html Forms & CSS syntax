@@ -1,0 +1,57 @@
+//Html forms
+
+<!DOCTYPE html>
+<html>
+<head>
+<title>Password Input Control</title>
+</head>	
+<body>
+<form >
+User ID : <input type = "text" name = "user_id" />
+<br>
+Password: <input type = "password" name = "password" />
+</form>
+</body>	
+</html>
+
+
+//CSS syntax
+
+<!DOCTYPE html>  
+<html>  
+<head>  
+<style>  
+h2,p{  
+    background-color: #b0d4de;  
+}  
+</style>  
+</head>  
+<body>  
+<h2>CSS page</h2>  
+<p>Hello world.</p>  
+</body>  
+</html> 
+
+
+//CSS padding 
+
+<!DOCTYPE html>  
+<html>  
+<head>  
+<style>  
+p {  
+    background-color: blue;  
+}  
+p.padding {  
+    padding-top: 80px;  
+    padding-right: 90px;  
+    padding-bottom: 180px;  
+    padding-left: 220px;  
+}  
+</style>  
+</head>  
+<body>  
+<p>Hello</p>  
+<p class="padding">Hello everyone.</p>  
+</body>  
+</html>  
