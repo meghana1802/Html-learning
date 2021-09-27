@@ -1,0 +1,40 @@
+//Block 
+
+<!DOCTYPE html>  
+<html>  
+<head>  
+<title>Page Title</title>  
+<style>  
+p { background-color: #8A55; }  
+</style>  
+</head>  
+<body>  
+<p>Hello everyone, this a paragraph in a block.</p>   
+</body>  
+</html>  
+
+
+
+//In-Line block
+
+<!DOCTYPE html>  
+<html>  
+<head>  
+<style>  
+span.b {  
+  display: inline-block;  
+  width: 80px;  
+  height: 80px;  
+  padding: 4px;  
+  color:Orange;  
+  border: 3px solid violet;      
+  background-color: red;   
+}  
+</style>  
+</head>  
+<body>  
+  
+<div>Hello there this is In-line Block <span class="b">Inline-Block</span>  </div>  
+  
+</body>  
+</html>  
